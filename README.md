@@ -10,6 +10,7 @@
 ## Python
 * [One Page One Basics](https://github.com/DL-Berkey/Today-I-Learned/blob/main/Python/basics/20220521.md)
 * [List에서 값 지우는 방법](https://github.com/DL-Berkey/Today-I-Learned/blob/main/Python/List/20220525.md)
+* [List의 값들을 int로 변경하기](https://github.com/DL-Berkey/Today-I-Learned/blob/main/Python/List/20220526.md)
 
 <br>
 
