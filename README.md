@@ -4,6 +4,7 @@
 
 ## Javascript
 * [정규 표현식](https://github.com/DL-Berkey/Today-I-Learned/blob/main/Javascript/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D/20220523.md)
+* [클로저](https://github.com/DL-Berkey/Today-I-Learned/blob/main/Javascript/%ED%81%B4%EB%A1%9C%EC%A0%80/20220601.md)
 
 <br>
 
